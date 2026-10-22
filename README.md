@@ -62,6 +62,12 @@ Displays source, destination, and route details.
 
 Highlights potential stopping points for driver safety.
 
+💡 Safety Recommendations
+
+Provides guidance based on the driver's condition.
+
+
+
 🎨 Project Prototype
 
 Explore the interactive DriveGuard prototype created using Figma Make.
@@ -72,6 +78,4 @@ Explore the interactive DriveGuard prototype created using Figma Make.
   </a>
 </p>
 
-💡 Safety Recommendations
 
-Provides guidance based on the driver's condition.
