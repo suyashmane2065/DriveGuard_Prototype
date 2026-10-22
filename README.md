@@ -1,81 +1,77 @@
-🚗 DriveGuard — Driver Safety & Drowsiness Detection System
+🚗 DriveGuard — Smart Driver Safety & Drowsiness Detection System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-DriveGuard-2563EB?style=for-the-badge&logo=github" alt="DriveGuard"/>
-  <img src="https://img.shields.io/badge/Domain-Driver%20Safety-16A34A?style=for-the-badge" alt="Driver Safety"/>
-  <img src="https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge" alt="Prototype"/>
+  <img src="https://img.shields.io/badge/🚘-DriveGuard-blue?style=for-the-badge" alt="DriveGuard"/>
+  <img src="https://img.shields.io/badge/🛡️-Road%20Safety-green?style=for-the-badge" alt="Road Safety"/>
+  <img src="https://img.shields.io/badge/🚀-Major%20Project-orange?style=for-the-badge" alt="Major Project"/>
 </p>
 
 <p align="center">
-  <b>🚦 Making Every Journey Safer, One Drive at a Time!</b>
+  <i>✨ Drive Alert. Drive Safe. Reach Safe. ✨</i>
 </p>
 
-📌 About the Project
+🌟 About DriveGuard
 
-DriveGuard is a driver safety system designed to help prevent road accidents caused by driver drowsiness and fatigue. It provides a user-friendly dashboard for monitoring driver alertness, managing journeys, displaying safety alerts, and assisting drivers with route information.
+DriveGuard is an innovative driver safety prototype designed to make journeys safer by addressing one of the major causes of road accidents — driver drowsiness and fatigue.
 
-The project focuses on improving road safety through drowsiness monitoring, journey tracking, and timely safety recommendations.
+🚘 The system provides an intuitive dashboard to monitor driver alertness, manage journeys, visualize routes, and display important safety alerts. By combining driver-status monitoring with journey tracking and safety recommendations, DriveGuard aims to encourage safer driving habits and reduce the risks associated with fatigue.
 
-This repository contains the source code for the DriveGuard prototype, designed using Figma Make.
+🎨 This repository contains the source code for the DriveGuard prototype, designed using Figma Make.
 
-🎯 Objectives
+🎯 Our Objectives
 
-😴 Detect driver drowsiness and monitor eye-state activity.
+😴 Monitor Driver Alertness — Track eye-state activity and identify signs of drowsiness.
 
-🚨 Provide driver status updates and safety alerts.
+🚨 Enhance Road Safety — Display timely warnings and driver-status alerts.
 
-🗺️ Monitor journeys from source to destination.
+🗺️ Simplify Journey Monitoring — Track trips from the starting point to the destination.
 
-📍 Display route information, estimated distance, and travel time.
+📍 Provide Route Insights — Display routes, estimated distances, and travel durations.
 
-🛑 Identify critical stops to support safer driving decisions.
+🛑 Support Safe Stops — Identify potential stopping points when rest is needed.
 
-💡 Provide safety recommendations based on driver status.
+💡 Promote Safer Driving — Offer useful recommendations based on driver status.
 
-✨ Key Features
+✨ Features at a Glance
 
-Feature
+🚀 Feature
 
-Description
+💡 What It Offers
 
-📊 Driver Dashboard
+📊 Smart Driver Dashboard
 
-Displays driver status and journey information.
+A centralized view of driver status, journey progress, and safety information.
 
 👁️ Drowsiness Monitoring
 
-Shows eye-state activity and alertness status.
+Visualizes eye-state activity and driver alertness status.
 
-🚨 Safety Alerts
+🚨 Intelligent Safety Alerts
 
-Displays warnings when drowsiness is detected.
+Displays warnings when drowsiness is detected by the system.
 
 🚘 Journey Management
 
-Allows users to start and end journeys.
+Enables users to start, monitor, and end their journeys.
 
-🗺️ Route Planning
+🗺️ Interactive Route Planning
 
-Displays source, destination, and route details.
+Provides source, destination, and route details for trip planning.
 
-🛑 Critical Stops
+🛑 Critical Stop Identification
 
-Highlights potential stopping points for driver safety.
+Highlights potential stopping locations to support safer journeys.
 
-💡 Safety Recommendations
+💚 Personalized Safety Guidance
 
-Provides guidance based on the driver's condition.
+Presents recommendations according to the displayed driver status.
 
+🎨 Explore the Prototype
 
-
-🎨 Project Prototype
-
-Explore the interactive DriveGuard prototype created using Figma Make.
+Experience the DriveGuard interface and explore its dashboard, journey-management screens, and driver-safety features.
 
 <p align="center">
   <a href="https://www.figma.com/make/CLf5kXYtvgvB0LZBh8e4ZJ/Major-Prototype?code-node-id=0-6&p=f&t=vwhHoO2kXSRss9N2-0&fullscreen=1">
-    <img src="https://img.shields.io/badge/🎨%20Explore%20Prototype-Figma-9747FF?style=for-the-badge" alt="Explore DriveGuard Prototype"/>
+    <img src="https://img.shields.io/badge/✨_Explore_DriveGuard-Open_Figma_Prototype-9747FF?style=for-the-badge&logo=figma&logoColor=white" alt="Explore DriveGuard Prototype"/>
   </a>
 </p>
-
-
